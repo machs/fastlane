@@ -1,0 +1,6 @@
+framework module Pods_iTC_test_desktop {
+  umbrella header "Pods-iTC_test-desktop-umbrella.h"
+
+  export *
+  module * { export * }
+}
